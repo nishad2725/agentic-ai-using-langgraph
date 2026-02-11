@@ -4,3 +4,6 @@ langchain-openai
 langchain-anthropic
 python-dotenv
 ipykernel
+typing
+pydantic
+
